@@ -1,0 +1,2 @@
+# mycppjourney
+Learning about CPP 
